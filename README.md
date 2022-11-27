@@ -1,6 +1,6 @@
 # AIRBNB Clone Project 
 
-### Project By  Marvelous and Mahadi
+### Project By  Bunmi and Yusuf
 ### Started: 2022-11-21
 
 
